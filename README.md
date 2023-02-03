@@ -1,8 +1,15 @@
 # [Fitness Improvement Project](https://edepaz101.github.io/Eduardo_Portfolio_Projects/) 
+
+## Overview
+
 • Designed a personal weight loss program with the purpose to lose 7 pounds or more within a 5 months and improve overall athletic performance. 
  Collected running data on timed miles, calories burned and current weight.
+ 
+ ## Tools
 
-Results
+Tableau and Excel
+
+## Results
 
 • Reduced mile time by 50.17%, from 12:49/mile to 6:27/mile
 
