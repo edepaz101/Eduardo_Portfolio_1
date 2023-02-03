@@ -48,3 +48,9 @@ Python and Excel
 
 ![](https://github.com/edepaz101/Eduardo_Portfolio_Projects/blob/main/images/pic%203.png)
 
+![](https://github.com/edepaz101/Eduardo_Portfolio_Projects/blob/main/images/pic%204.png)
+
+![](https://github.com/edepaz101/Eduardo_Portfolio_Projects/blob/main/images/pic%205.png)
+
+
+
