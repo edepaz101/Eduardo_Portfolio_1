@@ -1,4 +1,4 @@
-# Fitness Improvement Project
+# [Fitness Improvement Project](https://edepaz101.github.io/Eduardo_Portfolio_Projects/) 
 • Designed a personal weight loss program with the purpose to lose 7 pounds or more within a 5 months and improve overall athletic performance. 
  Collected running data on timed miles, calories burned and current weight.
 
