@@ -22,7 +22,7 @@ workout
 
 • Resulted in fitness and health improved by a 2% reduction in bodyfat and better quality of life
 
-![](https://github.com/edepaz101/Eduardo_Portfolio_Projects/blob/main/images/Screen%20Shot%202023-01-29%20at%204.02.41%20PM.png)
+![]()
 
 # [Transportation Expense Reduction Project](https://edepaz101.github.io/Eduardo_Portfolio_Project2/)
 
