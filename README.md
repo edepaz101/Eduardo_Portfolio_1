@@ -44,7 +44,7 @@ Python and Excel
 
 ### Python Code and Data Visuals
 	
-![](https://github.com/edepaz101/Eduardo_Portfolio_Projects/blob/main/images/pic%201.png)
+![](/images/pic%201.png)
 
 ![](https://github.com/edepaz101/Eduardo_Portfolio_Projects/blob/main/images/pic%202.png)
 
