@@ -46,12 +46,12 @@ Python and Excel
 	
 ![](/images/pic%201.png)
 
-![](https://github.com/edepaz101/Eduardo_Portfolio_Projects/blob/main/images/pic%202.png)
+![](/images/pic%202.png)
 
 
-![](https://github.com/edepaz101/Eduardo_Portfolio_Projects/blob/main/images/pic%203.png)
+![](/images/pic%203.png)
 
-![](https://github.com/edepaz101/Eduardo_Portfolio_Projects/blob/main/images/pic%204.png)
+![](/images/pic%204.png)
 
-![](https://github.com/edepaz101/Eduardo_Portfolio_Projects/blob/main/images/pic%205.png)
+![](/images/pic%205.png)
 
